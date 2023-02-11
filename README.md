@@ -1,5 +1,5 @@
 
-# Projects of Machine Learning
+# Machine Learning Projects
 
 ### Higgs Boson
 > - Build a classifier to distinguish Higgs Boson signal from the background. The data is from 'https://www.kaggle.com/c/higgs-boson'.
